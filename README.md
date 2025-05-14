@@ -1,8 +1,4 @@
-# 🚀 Embedded Innovators  – Trainee Tasks Repository
-
-Welcome to the official repository for trainee tasks of **Embedded Innovators ** – a passionate community of engineers committed to bridging the gap between academia and industry through hands-on experience in **Embedded Systems**, **Robotics**, and the **Internet of Things (IoT)**.
-
-## 🌟 About Us
+# 🚀 Embedded Innovators  – KUET
 
 Embedded Innovators KUET is a team of passionate engineers bridging the gap between academia and industry in embedded systems and IoT. Founded by KUET students and guided by experienced industry mentors, we focus on training, research, and product development to meet industry standards.
 
@@ -21,17 +17,6 @@ Embedded Innovators KUET is a team of passionate engineers bridging the gap betw
 🚀 To become a leading innovation hub, producing skilled engineers and high-quality products.  
 🌍 To collaborate with industry partners, ensuring our solutions meet global standards.  
 🔄 To create a sustainable cycle—mentoring new talents while advancing technology.
-
----
-This repository documents the learning journey of our first batch of **trainee members**, showcasing their dedication, creativity, and problem-solving skills through a series of technical tasks and mini-projects.
-
-
-## 📁 Repository Structure
-Each task folder contains:
-- ✅ Task descriptions
-- 📝 Submission files (code, reports, or presentations)
-- 📸 Media (if applicable)
-- 💬 Reflections and learning outcomes
 
 ---
 
