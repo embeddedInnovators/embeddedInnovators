@@ -6,26 +6,25 @@ Welcome to the official repository for trainee tasks of **Embedded Innovators **
 
 Embedded Innovators KUET is a team of passionate engineers bridging the gap between academia and industry in embedded systems and IoT. Founded by KUET students and guided by experienced industry mentors, we focus on training, research, and product development to meet industry standards.
 
-Our Mission
-🔹 Empower Future Engineers – We recruit and train KUET students, equipping them with industry-level skills.
-🔹 Innovate & Develop – We design and build IoT and embedded systems solutions with real-world applications.
+## Our Mission
+🔹 Empower Future Engineers – We recruit and train KUET students, equipping them with industry-level skills.  
+🔹 Innovate & Develop – We design and build IoT and embedded systems solutions with real-world applications.  
 🔹 Bridge University & Industry – Our mentors, including R&D managers and embedded hardware engineers, ensure we align with industry needs.
 
-What We Do
-✅ Embedded Systems & IoT Development – We create innovative hardware and firmware solutions.
-✅ Industry-Oriented Training – Hands-on sessions led by experienced professionals.
-✅ R&D & Product Development – Advancing technology through structured research.
+## What We Do
+✅ Embedded Systems & IoT Development – We create innovative hardware and firmware solutions.  
+✅ Industry-Oriented Training – Hands-on sessions led by experienced professionals.  
+✅ R&D & Product Development – Advancing technology through structured research.  
 ✅ Client & Consulting Services – Solving real-world problems for local and global clients.
 
-Our Vision
-🚀 To become a leading innovation hub, producing skilled engineers and high-quality products.
-🌍 To collaborate with industry partners, ensuring our solutions meet global standards.
+## Our Vision
+🚀 To become a leading innovation hub, producing skilled engineers and high-quality products.  
+🌍 To collaborate with industry partners, ensuring our solutions meet global standards.  
 🔄 To create a sustainable cycle—mentoring new talents while advancing technology.
 
-
+---
 This repository documents the learning journey of our first batch of **trainee members**, showcasing their dedication, creativity, and problem-solving skills through a series of technical tasks and mini-projects.
 
----
 
 ## 📁 Repository Structure
 
