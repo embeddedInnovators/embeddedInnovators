@@ -54,8 +54,6 @@ Connect with us for collaborations, partnerships, and opportunities!
 
 ---
 
-## 📢 Meet the Trainees
-
 
 ## 🛠️ Let's Learn. Let's Build. Let's Innovate.
 
