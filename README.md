@@ -27,16 +27,6 @@ This repository documents the learning journey of our first batch of **trainee m
 
 
 ## 📁 Repository Structure
-
-/trainee-tasks/
-│
-├── Task-01-Basics-of-C-and-Git/
-├── Task-02-Arduino-Basics/
-├── Task-03-Sensors-and-Actuators/
-├── Task-04-Real-Time-Applications/
-├── Task-05-Project-Proposals/
-└── README.md
-
 Each task folder contains:
 - ✅ Task descriptions
 - 📝 Submission files (code, reports, or presentations)
